@@ -1,11 +1,11 @@
 # Team 6k7means - Pittsburgh's Most Livable Neighborhood
 
 ## Team Members
-- [Person A Name] (email@pitt.edu) - Green Space Analysis
-- [Person B Name] (email@pitt.edu) - Safety & Infrastructure Analysis
+- [Amir Valizadeh] (amv214@pitt.edu) - Green Space & safety Analysis
+- [Shelly Gomez] (email@pitt.edu) - Infrastructure Analysis
 
 ## Canvas Group Number
-[Your group number]
+[58]
 
 ## Project Overview
 We determine Pittsburgh's most livable neighborhood using three data-driven metrics: green infrastructure (trees), safety (crime rates), and city facilities availability.
@@ -22,9 +22,9 @@ We weighted green space highest because environmental quality is fundamental to 
 4. [Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2) - Geographic boundaries for analysis
 
 ## Individual Notebooks
-- `person_a_green_space.ipynb` - Tree density and environmental benefits analysis
-- `person_b_safety.ipynb` - Crime rate analysis
-- `person_b_facilities.ipynb` - Public facilities accessibility analysis
+- `green_space.ipynb` - Tree density and environmental benefits analysis
+- `safety.ipynb` - Crime rate analysis
+- `facilities.ipynb` - Public facilities accessibility analysis
 - `final_combined_analysis.ipynb` - Combined livability score and winner
 
 ## Key Findings
