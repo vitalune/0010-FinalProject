@@ -1,8 +1,8 @@
-# Team 6k7means - Pittsburgh's Most Livable Neighborhood
+# Team Labubu Chocolate - Pittsburgh's Most Livable Neighborhood
 
 ## Team Members
 - [Amir Valizadeh] (amv214@pitt.edu) - Green Space & safety Analysis
-- [Shelly Gomez] (email@pitt.edu) - Infrastructure Analysis
+- [Shellie Gomez] (frg42l@pitt.edu) - Infrastructure Analysis
 
 ## Canvas Group Number
 [58]
