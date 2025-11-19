@@ -28,4 +28,9 @@ We weighted green space highest because environmental quality is fundamental to 
 - `final_combined_analysis.ipynb` - Combined livability score and winner
 
 ## Key Findings
-[To be added after analysis]
+
+WINNER: MOST LIVABLE NEIGHBORHOOD
+HIGHLAND PARK -- Livability Score: 72.71/100  Green Space: 55.86/100  Safety: 95.56/100\n  Facilities: 67.69/100
+
+TOP 10 NEIGHBORHOODS
+1. Highland Park 2. Allegheny Center 3. Regent Square 4. Allegheny West 5. Morningside 6. Squirrel Hill South      7. Central Northside 8. Manchester 9. Friendship 10. Perry North
