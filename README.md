@@ -1,8 +1,8 @@
 # Team Labubu Chocolate - Pittsburgh's Most Livable Neighborhood
 
 ## Team Members
-- [Amir Valizadeh] (amv214@pitt.edu) - Green Space & safety Analysis
-- [Shellie Gomez] (frg42l@pitt.edu) - Infrastructure Analysis
+- [Amir Valizadeh] (amv214@pitt.edu) - Infrastructure & safety Analysis
+- [Shellie Gomez] (frg42l@pitt.edu) - Green space Analysis
 
 ## Canvas Group Number
 [58]
